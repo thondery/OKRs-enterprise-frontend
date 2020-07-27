@@ -57,7 +57,6 @@ export default class Pagination extends Vue {
 </script>
 
 <style lang="scss">
-@import '@/assets/scss/main.scss';
 .pagination-container.hidden {
   display: none;
 }

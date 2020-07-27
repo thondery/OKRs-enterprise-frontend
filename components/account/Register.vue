@@ -119,7 +119,6 @@ export default class RegisterComponent extends Vue {
 }
 </script>
 <style lang="scss">
-@import '@/assets/scss/main.scss';
 .register-form {
   flex-direction: column;
   padding: $unit-8 $unit-12 $unit-12 $unit-12;

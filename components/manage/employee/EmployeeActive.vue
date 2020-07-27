@@ -283,7 +283,6 @@ export default class EmployeeActive extends Vue {
 </script>
 
 <style lang="scss">
-@import '@/assets/scss/main.scss';
 .employee-active {
   &__icon {
     cursor: pointer;

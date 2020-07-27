@@ -102,7 +102,6 @@ export default class ResetPassword extends Vue {
 </script>
 
 <style lang="scss">
-@import '@/assets/scss/main.scss';
 .reset-password-form {
   flex-direction: column;
   padding: $unit-12;

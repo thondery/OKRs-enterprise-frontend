@@ -165,9 +165,7 @@ export default class SettingCompanyPage extends Vue {
   }
 }
 </script>
-<style lang="ts" scoped></style>
 <style lang="scss" scoped>
-@import '@/assets/scss/main.scss';
 .admin {
   margin-left: $unit-9;
   &__top {

@@ -101,7 +101,6 @@ export default class ChangePasswordDialog extends Vue {
 }
 </script>
 <style lang="scss">
-@import '@/assets/scss/main.scss';
 .change-password {
   flex-direction: column;
   padding: $unit-12;

@@ -14,7 +14,6 @@ import { Component, Vue } from 'vue-property-decorator';
 export default class ChangePasswordPage extends Vue {}
 </script>
 <style lang="scss" scoped>
-@import '@/assets/scss/main.scss';
 .change-password-page {
   padding-top: calc(100vh * (2 / 24));
   &__image {

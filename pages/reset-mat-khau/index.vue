@@ -42,7 +42,6 @@ import AuthRepository from '@/repositories/AuthRepository';
 export default class ResetPasswordPage extends Vue {}
 </script>
 <style lang="scss" scoped>
-@import '@/assets/scss/main.scss';
 .reset-password-page {
   padding-top: calc(100vh * (3 / 24));
 }

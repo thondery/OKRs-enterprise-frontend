@@ -94,7 +94,6 @@ export default class ForgotPassword extends Vue {
 </script>
 
 <style lang="scss" scoped>
-@import '@/assets/scss/main.scss';
 .wrap-fpass-form {
   .fpass__form {
     box-shadow: $box-shadow-default;

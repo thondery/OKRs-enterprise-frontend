@@ -140,7 +140,6 @@ export default class ManageEmployee extends Vue {
 </script>
 
 <style lang="scss">
-@import '@/assets/scss/main.scss';
 $bg-gray-employee: #e5e5e5;
 .manage-employee {
   padding: $unit-10 $unit-8;

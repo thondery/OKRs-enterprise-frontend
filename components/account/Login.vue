@@ -92,7 +92,6 @@ export default class LoginSComponent extends Vue {
 }
 </script>
 <style lang="scss">
-@import '@/assets/scss/main.scss';
 .login-form {
   flex-direction: column;
   padding: $unit-12;

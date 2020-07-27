@@ -64,7 +64,6 @@ export default class SideBar extends Vue {
 }
 </script>
 <style lang="scss" scoped>
-@import '@/assets/scss/main.scss';
 .sidebar {
   flex-direction: column;
   height: 100%;

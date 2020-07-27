@@ -21,7 +21,6 @@ export default class Layout extends Vue {}
 </script>
 
 <style lang="scss">
-@import '@/assets/scss/main.scss';
 .authenticated-screen {
   height: 93vh;
   &__app {

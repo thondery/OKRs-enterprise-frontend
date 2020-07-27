@@ -43,7 +43,6 @@ import AuthRepository from '@/repositories/AuthRepository';
 export default class LoginPage extends Vue {}
 </script>
 <style lang="scss" scoped>
-@import '@/assets/scss/main.scss';
 .register-page {
   padding-top: $unit-12;
   align-content: center;

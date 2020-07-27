@@ -19,7 +19,6 @@ import { Component, Vue } from 'vue-property-decorator';
 export default class LoginPage extends Vue {}
 </script>
 <style lang="scss" scoped>
-@import '@/assets/scss/main.scss';
 .login-page {
   padding-top: $unit-12;
   &__image {

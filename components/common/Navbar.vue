@@ -78,7 +78,6 @@ export default class Navbar extends Vue {
 </script>
 
 <style lang="scss" scoped>
-@import '@/assets/scss/main.scss';
 .header {
   width: 100%;
   position: sticky;

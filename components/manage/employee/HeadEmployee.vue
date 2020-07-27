@@ -64,7 +64,6 @@ export default class HeadEmployee extends Vue {
 </script>
 
 <style lang="scss">
-@import '@/assets/scss/main.scss';
 .header-employee {
   display: flex;
   justify-content: space-between;

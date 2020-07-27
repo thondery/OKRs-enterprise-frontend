@@ -19,7 +19,6 @@ import { Component, Vue } from 'vue-property-decorator';
 export default class ForgotPasswordPage extends Vue {}
 </script>
 <style lang="scss" scoped>
-@import '@/assets/scss/main.scss';
 .login-page {
   padding-top: calc(100vh * (3 / 24));
   .el-col {

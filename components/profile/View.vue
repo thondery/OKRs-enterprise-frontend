@@ -97,7 +97,6 @@ export default class ViewProfile extends Vue {
 </script>
 
 <style lang="scss">
-@import '@/assets/scss/main.scss';
 .wrap-profile {
   padding: $unit-8 $unit-64 $unit-10 $unit-10;
   .profile {
